@@ -28,7 +28,6 @@ jobs:
           base: header, community, repositories, metadata
           config_display: large
           config_timezone: Asia/Tokyo
-          plugin_activity: no
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
