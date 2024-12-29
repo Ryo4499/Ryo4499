@@ -44,7 +44,3 @@
 ### Studying
 
 [![Studying](https://go-skill-icons.vercel.app/api/icons?i=kali,cpp,rust,matlab,kubernetes,dart,flutter,kafka,elasticsearch,supabase,playwright,aws,gcp,azure,jest,vite,vitest,svelte,gatsby,reactnative&perline=10)](https://go-skill-icons.vercel.app/api)
-
-## Here's My Metrics⬇️
-
-![Metrics](/github-metrics.svg)
