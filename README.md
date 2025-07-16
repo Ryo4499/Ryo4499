@@ -11,7 +11,7 @@
 
 ### Backend
 
-[![Backend](https://go-skill-icons.vercel.app/api/icons?i=java,spring,springdatajpa,springsecurity,hibernate,gradle,go,gorm,fiber,grpc,bun,express,nodejs,strapi,stripe,apollo,graphql,strapi,lua,luau&perline=10)](https://go-skill-icons.vercel.app/api)
+[![Backend](https://go-skill-icons.vercel.app/api/icons?i=java,spring,springdatajpa,springsecurity,hibernate,gradle,go,gorm,fiber,grpc,bun,express,nodejs,strapi,stripe,apollo,graphql,lua,luau&perline=10)](https://go-skill-icons.vercel.app/api)
 
 ### DB
 
