@@ -7,7 +7,7 @@
 
 ### Python
 
-[![PyBackend](https://go-skill-icons.vercel.app/api/icons?i=py,langchain,llamaindex,streamlit,gradio,pytorch,lightning,tensorflow,scikitlearn,opencv,matplotlib,pandas,scipy,fastapi,flask,sqlalchemy,huggingface,sphinx&perline=10)](https://go-skill-icons.vercel.app/api)
+[![PyBackend](https://go-skill-icons.vercel.app/api/icons?i=py,langchain,llamaindex,streamlit,gradio,pytorch,lightning,tensorflow,scikitlearn,opencv,matplotlib,pandas,scipy,fastapi,flask,sqlalchemy,huggingface,sphinx,pytest&perline=10)](https://go-skill-icons.vercel.app/api)
 
 ### Backend
 
@@ -39,8 +39,8 @@
 
 ### I Love
 
-[![Love](https://go-skill-icons.vercel.app/api/icons?i=lazyvim,neovim,telescope,vim,alacritty,md,yaml,mermaid,bash,docker,arch,wsl,tmux,pytorch,go,fiber,gorm,java,graphql,postgresql,bun,nextjs,materialui,githubactions,swagger,aws&perline=10)](https://go-skill-icons.vercel.app/api)
+[![Love](https://go-skill-icons.vercel.app/api/icons?i=arch,lazyvim,neovim,telescope,vim,alacritty,tmux,duckduckgo,latex,md,yaml,mermaid,bash,podman,pytorch,pytest,go,fiber,gorm,java,graphql,postgresql,bun,nextjs,nuxtjs,materialui,githubactions,swagger,aws&perline=10)](https://go-skill-icons.vercel.app/api)
 
 ### Studying
 
-[![Studying](https://go-skill-icons.vercel.app/api/icons?i=kali,cpp,qt,assembly,rust,actix,tauri,yew,wasm,surrealdb,scala,matlab,r,kubernetes,helm,podman,raspberrypi,arduino,ros,dart,flutter,android,androidstudio,kotlin,kafka,elasticsearch,supabase,aws,gcp,azure,angular,svelte,reactnative,chartjs,threejs,nestjs,prisma,cs,dotnet,gin,blender,godot,unrealengine&perline=10)](https://go-skill-icons.vercel.app/api)
+[![Studying](https://go-skill-icons.vercel.app/api/icons?i=kali,cpp,qt,assembly,rust,actix,tauri,yew,wasm,surrealdb,scala,matlab,r,kubernetes,helm,raspberrypi,arduino,ros,dart,flutter,android,androidstudio,kotlin,kafka,elasticsearch,supabase,aws,gcp,azure,angular,svelte,reactnative,chartjs,threejs,nestjs,prisma,cs,dotnet,gin,blender,godot,unrealengine&perline=10)](https://go-skill-icons.vercel.app/api)
